@@ -7,14 +7,14 @@
 //
 
 #import "RecentPhotosTableViewController.h"
-#import "PhotoViewController.h"
+//#import "PhotoViewController.h"
 #import "NSUserDefaultKey.h"
-#import "FlickrFetcher.h"
+//#import "FlickrFetcher.h"
 
-@interface RecentPhotosTableViewController ()
-//- (NSArray *)initialModel;
-
-@end
+//@interface RecentPhotosTableViewController ()
+////- (NSArray *)initialModel;
+//
+//@end
 
 @implementation RecentPhotosTableViewController
 
